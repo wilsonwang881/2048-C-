@@ -3,7 +3,6 @@
  *
  *  Created on: 4 Feb 2017
  *      Author: Lei Wang (Wilson)
- *      CID: 01214043
  *      Imperial College, EEE
  *      Spring 2017 Assignment
  */
